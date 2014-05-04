@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user firstName="Alex" lastName="Ridriguez" currency="USD">
+		<bought-product name="Surf" />
+		<bought-product name="Cheese" />
+		<friends-with lastName="Goodwin" />
+		<friends-with lastName="Doe" />
+		<friends-with lastName="Jennings" />
+	</user>
+
+	<user firstName="Steve" lastName="Goodwin" currency="USD">
+		<bought-product name="Cheese" />
+		<bought-product name="Brown Bread" />
+	</user>
+
+	<user firstName="John" lastName="Rodrigo" currency="USD">
+		<bought-product name="White Bread" />
+	</user>
+
+	<user firstName="George" lastName="Hortardo" currency="USD">
+		<bought-product name="White Bread" />
+		<bought-product name="Dozen Eggs" />
+	</user>
+	
+	<user firstName="Jane" lastName="Doe" currency="USD">
+		<friends-with lastName="Goodwin" />
+	</user>
+
+	<user firstName="Peter" lastName="Jennings" currency="USD">
+		<friends-with lastName="Doe" />
+	</user>
+
+</users>

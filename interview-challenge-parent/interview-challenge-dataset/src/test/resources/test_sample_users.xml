@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user firstName="Alex" lastName="Ridriguez" currency="USD">
+		<bought-product name="Surf" />
+		<bought-product name="Cheese" />
+	</user>
+
+	<user firstName="Steve" lastName="Goodwin" currency="USD">
+		<bought-product name="Cheese" />
+		<bought-product name="White Bread" />
+	</user>
+
+	<user firstName="John" lastName="Doe" currency="USD">
+		<bought-product name="White Bread" />
+	</user>
+
+	<user firstName="Jane" lastName="Doe" currency="USD" />
+	
+</users>

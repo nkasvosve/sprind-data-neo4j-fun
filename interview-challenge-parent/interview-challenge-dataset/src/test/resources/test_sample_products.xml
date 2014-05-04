@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product name="Surf" price="1.30" currency="USD" />
+	<product name="Cheese" price="1.10" currency="USD" />
+	<product name="White Bread" price="1.00" currency="USD" />
+</products>
